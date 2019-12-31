@@ -1,0 +1,380 @@
+[
+  {
+    "Year": 1945,
+    "Decade": "1940s",
+    "Milestone Title": "ENIAC",
+    "Milestone Event": "First electronic general-purpose computer = ENIAC",
+    "Why Important": "Faster decisions using a computer and mathmatics",
+    "Reference": "https://en.wikipedia.org/wiki/ENIAC",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1945,
+    "Decade": "1940s",
+    "Milestone Title": "John von Neumann / array",
+    "Milestone Event": "John von Neumann creates a merge sort algorithm, in which the first and second halves of an array are each sorted recursively and then merged",
+    "Why Important": "Arrays allow mathmatics, grouping and sorting of data",
+    "Reference": "https://en.wikipedia.org/wiki/John_von_Neumann",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1956,
+    "Decade": "1950s",
+    "Milestone Title": "First Hard Disk",
+    "Milestone Event": "The first computer hard disk used",
+    "Why Important": "Storing data for reuse = reduces time to recreate data from scratch from programming",
+    "Reference": "https://fiftiesweb.com/pop/inventions/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1958,
+    "Decade": "1950s",
+    "Milestone Title": "Modem",
+    "Milestone Event": "The modem invented",
+    "Why Important": "Communication between computers, foundation of the internet, sending / receiving data",
+    "Reference": "https://fiftiesweb.com/pop/inventions/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1961,
+    "Decade": "1960s",
+    "Milestone Title": "John Tukey / data analysis",
+    "Milestone Event": "Statistician John Tukey defined data analysis",
+    "Why Important": "Defined the process and procedures of collecting data for analysis without being a statistian",
+    "Reference": "https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1970,
+    "Decade": "1970s",
+    "Milestone Title": "Dr. EF Codd / normalized data",
+    "Milestone Event": "Dr. E.F. Codd creates concept of \"normalizing data\", relational models and foundation to storing data in databases",
+    "Why Important": "Made data independent from specific software / coding langauges and created framework for storing and retrieving data using rows (tuples), columns and tables (entities)",
+    "Reference": "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1972,
+    "Decade": "1970s",
+    "Milestone Title": "FORTRAN supports CSV Files",
+    "Milestone Event": "FORTRAN Programing Language supports comma seperated value (csv) file formats",
+    "Why Important": "Programing Language can input / output data files with consistent results",
+    "Reference": "http://bitsavers.trailing-edge.com/pdf/ibm/370/fortran/GC28-6884-0_IBM_FORTRAN_Program_Products_for_OS_and_CMS_General_Information_Jul72.pdf",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1982,
+    "Decade": "1980s",
+    "Milestone Title": "Mike Bloomberg / Terminal",
+    "Milestone Event": "Bloomberg Terminal Introduced",
+    "Why Important": "Financial Data Analysis of Bond Market to market makers without being a programmer",
+    "Reference": "https://www.bloomberg.com/company/press/timeline-video-the-evolution-of-the-bloomberg-terminal/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1983,
+    "Decade": "1980s",
+    "Milestone Title": "Edward Tufty / Data Viz concepts",
+    "Milestone Event": "Edward Tufty writes the book \"The Visual Display of Quantitative Information ",
+    "Why Important": "Defines ways to communicate with data beyond tables and numbers",
+    "Reference": "https://www.amazon.com/gp/product/096139210X/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1986,
+    "Decade": "1980s",
+    "Milestone Title": "SQL Standardized",
+    "Milestone Event": "SQL Language Standardized across all database technologies",
+    "Why Important": "A common language agnostic to technology for storing vasts amounts of data in a centralized location",
+    "Reference": "https://blog.ansi.org/2018/10/sql-standard-iso-iec-9075-2016-ansi-x3-135/#gref",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1987,
+    "Decade": "1980s",
+    "Milestone Title": "MS Excel",
+    "Milestone Event": "Microsoft Excel",
+    "Why Important": "Mainstream productivity software available to anyone in business world",
+    "Reference": "https://en.wikipedia.org/wiki/Microsoft_Excel",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1989,
+    "Decade": "1980s",
+    "Milestone Title": "BI (Business Intelligence)",
+    "Milestone Event": "The term “BI (Business Intelligence)” was proposed by Howard Dresner at Gartner in 1989",
+    "Why Important": "Data becomes as Asset = used for analysis to make decisions from",
+    "Reference": "https://www.flydata.com/blog/a-brief-history-of-data-analysis/",
+    "People Process or Technology Tag": "Process"
+  },
+  {
+    "Year": 1990,
+    "Decade": "1990s",
+    "Milestone Title": "OLAP",
+    "Milestone Event": "On-Line Analytical Processing (OLAP) and Business Intelligence become industry standards",
+    "Why Important": "Data Volumes Increase, specialized software and skills required to answer questons from data",
+    "Reference": "http://dssresources.com/history/dsshistory.html",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1990,
+    "Decade": "1990s",
+    "Milestone Title": "Guido van Rossum / Python",
+    "Milestone Event": "Guido van Rossum creates the Python programming language",
+    "Why Important": "Programming language that has versility beyond specific usage like back end processing or front end User Interface (UI)",
+    "Reference": "",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1991,
+    "Decade": "1990s",
+    "Milestone Title": "Linus Torvalds / Linux OS",
+    "Milestone Event": "Finnish engineer Linus Torvalds introduces the Linux operating system. Price: $0.",
+    "Why Important": "Open Source software and Programming Languages become available to anyone without costs",
+    "Reference": "https://www.bloomberg.com/news/articles/2014-12-04/open-source-linux-operating-system-introduced-in-1991",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1993,
+    "Decade": "1990s",
+    "Milestone Title": "Bill Inmon / Data Warehouse",
+    "Milestone Event": "Bill Inmon writes \"Building the data warehouse",
+    "Why Important": "Organize data in a way to gain insights and answer business questions",
+    "Reference": "https://archive.org/details/buildingdataware00inmo_1",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1993,
+    "Decade": "1990s",
+    "Milestone Title": "QlikView",
+    "Milestone Event": "QlikView software created",
+    "Why Important": "Distruptive Technology that removes barriers from answering questions using data but creating software that does everything in one place = ingest data, etl, data visual",
+    "Reference": "",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1996,
+    "Decade": "1990s",
+    "Milestone Title": "Ralph Kimball / Kimball Methodology",
+    "Milestone Event": "Ralph Kimball writes \"The data warehouse toolkit",
+    "Why Important": "Enables growth of the data analyst and business intelligence professional = understand requirements to ground swell data marts",
+    "Reference": "https://archive.org/details/datawarehousetoo00kimb_0",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 1996,
+    "Decade": "1990s",
+    "Milestone Title": "XML Created",
+    "Milestone Event": "XML Created",
+    "Why Important": "The goals of XML emphasize simplicity, generality, and usability across the Internet.",
+    "Reference": "https://en.wikipedia.org/wiki/XML",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 1997,
+    "Decade": "1990s",
+    "Milestone Title": "Data Mining defined",
+    "Milestone Event": "The journal Data Mining and Knowledge Discovery is launched; the reversal of the order of the two terms in its title reflecting the ascendance of “data mining” as the more popular way to designate “extracting information from large databases.”",
+    "Why Important": "Evolving Data Mining as a skill moving away from specific technologies needed to answer questions without specfic expertise in 1 technology",
+    "Reference": "https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#3df637a055cf",
+    "People Process or Technology Tag": "Process"
+  },
+  {
+    "Year": 1998,
+    "Decade": "1990s",
+    "Milestone Title": "Carlo Strozzi / NoSQL",
+    "Milestone Event": "Carlo Strozzi introduced the concept of NoSQL and non-relational databases",
+    "Why Important": "Removed defined structures required by Relational Databases to store values by key-value and catalist for Big Data solutions like Google BigTable, Amzaon DynamoDB and Graph Databases (social networks)",
+    "Reference": "https://en.wikipedia.org/wiki/NoSQL",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 2000,
+    "Decade": "2000s",
+    "Milestone Title": "REST / APIs",
+    "Milestone Event": "REST / APIs",
+    "Why Important": "Data Democracy = If i can use a browser, I can access data without the need to batch process",
+    "Reference": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2001,
+    "Decade": "2000s",
+    "Milestone Title": "Natural Language (NLP) Toolkit",
+    "Milestone Event": "Natural Language Toolkit",
+    "Why Important": "statistical natural language processing (NLP) for English written in the Python programming language",
+    "Reference": "https://en.wikipedia.org/wiki/Natural_Language_Toolkit",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2001,
+    "Decade": "2000s",
+    "Milestone Title": "JSON",
+    "Milestone Event": "JSON was first presented to the world at the JSON.org website in 2001",
+    "Why Important": "Evolved from XML, data agnostic to the programing langauge that created it",
+    "Reference": "http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2004,
+    "Decade": "2000s",
+    "Milestone Title": "Stephen Few",
+    "Milestone Event": "Stephen Few publishes Information Dashboard Design: The Effective Visual Communication of Data",
+    "Why Important": "Evolves data viz as a skill and effective means of communication.  New careers in Business Intelligence and Data Visualization",
+    "Reference": "http://www.perceptualedge.com/articles/ie/the_right_graph.pdf",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 2004,
+    "Decade": "2000s",
+    "Milestone Title": "Facebook",
+    "Milestone Event": "facebook",
+    "Why Important": "The Social Network influences people and data are communicating",
+    "Reference": "https://en.wikipedia.org/wiki/Facebook",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2005,
+    "Decade": "2000s",
+    "Milestone Title": "Google Analytics",
+    "Milestone Event": "Google Analytics",
+    "Why Important": "A web search engine and metadata (data about the data) become a product that businesses will pay to use",
+    "Reference": "https://en.wikipedia.org/wiki/Google_Analytics",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2006,
+    "Decade": "2000s",
+    "Milestone Title": "Apache Hadoop",
+    "Milestone Event": "Apache Hadoop Big Data Storage Created",
+    "Why Important": "The Data Lake offers alternatives to data marts and traditional data warehouses.",
+    "Reference": "https://en.wikipedia.org/wiki/Apache_Hadoop",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2006,
+    "Decade": "2000s",
+    "Milestone Title": "NumPy",
+    "Milestone Event": "NumPy Library Introduced",
+    "Why Important": "Python language library grows beyond programing to data analysis tool",
+    "Reference": "",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2006,
+    "Decade": "2000s",
+    "Milestone Title": "Twitter",
+    "Milestone Event": "Twitter",
+    "Why Important": "Unstructured Big Data offers opportunities for analysis of data beyond traditional limits.  The need for Data Scientists becomes a career aspiration",
+    "Reference": "https://en.wikipedia.org/wiki/Twitter",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2006,
+    "Decade": "2000s",
+    "Milestone Title": "AWS",
+    "Milestone Event": "Amazon Web Services (AWS) S3 storage and introduced its Elastic Compute Cloud (EC2)",
+    "Why Important": "Cloud computing = boundries to physical computers is removed.   Information technology (IT) segments into specialized fields",
+    "Reference": "https://en.wikipedia.org/wiki/Amazon_S3",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2007,
+    "Decade": "2000s",
+    "Milestone Title": "Github",
+    "Milestone Event": "GitHub",
+    "Why Important": "Version control and sharing of code between teams, departments and industries become easier and fasters",
+    "Reference": "https://github.com/about",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2007,
+    "Decade": "2000s",
+    "Milestone Title": "iPhone",
+    "Milestone Event": "Apple iPhone",
+    "Why Important": "Mobile Analytics becomes an industry",
+    "Reference": "https://en.wikipedia.org/wiki/IPhone",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2008,
+    "Decade": "2000s",
+    "Milestone Title": "Pandas",
+    "Milestone Event": "pandas is a software library created",
+    "Why Important": "Python evolves to the tool for open source data analysis",
+    "Reference": "https://en.wikipedia.org/wiki/Pandas_(software)",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2009,
+    "Decade": "2000s",
+    "Milestone Title": "Uber",
+    "Milestone Event": "Uber Founded",
+    "Why Important": "Using Data and Technology to disrupt the transportation industry",
+    "Reference": "https://en.wikipedia.org/wiki/Uber",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2010,
+    "Decade": "2010s",
+    "Milestone Title": "Kaggle.com",
+    "Milestone Event": "Kaggle.com created",
+    "Why Important": "Data Democracy in action = reward ANYONE who can solve problems using data and algorthems",
+    "Reference": "https://en.wikipedia.org/wiki/Kaggle",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2011,
+    "Decade": "2010s",
+    "Milestone Title": "Naomi Robbins",
+    "Milestone Event": "Naomi Robbins founds the Data Visualization New York Meetup",
+    "Why Important": "Pioneering Woman Engineer and Data Visualization expert who runs the largest offline community of data visualization professionals in the world",
+    "Reference": "https://www.meetup.com/DataVisualization/messages/boards/thread/13521591",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 2012,
+    "Decade": "2010s",
+    "Milestone Title": "Raspberry PI",
+    "Milestone Event": "Creation of the Raspberry PI",
+    "Why Important": "Making the IOT (Internet of Things) mass scale of data with a device that costs only $25",
+    "Reference": "https://www.zdnet.com/article/technology-that-changed-us-the-2010s/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2012,
+    "Decade": "2010s",
+    "Milestone Title": "Alberto Cairo",
+    "Milestone Event": "Alberto Cairo publishes the \"The Functional Art: An introduction to information graphics and visualization (Voices That Matter)",
+    "Why Important": "Charts become an artform and careers like data journalism become mainstream",
+    "Reference": "https://www.amazon.com/gp/product/B0091SXDOM/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2",
+    "People Process or Technology Tag": "People"
+  },
+  {
+    "Year": 2015,
+    "Decade": "2010s",
+    "Milestone Title": "Jupyter Notebook",
+    "Milestone Event": "Project Jupyter",
+    "Why Important": "Open Source code and libraries becomes an all in one tool that's easier to use",
+    "Reference": "https://jupyter.org/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2015,
+    "Decade": "2010s",
+    "Milestone Title": "Alexa",
+    "Milestone Event": "Amazon Alexa Ecosystem",
+    "Why Important": "Making voice to data mainstream and allowing API integration by other vendors",
+    "Reference": "https://www.zdnet.com/article/technology-that-changed-us-the-2010s/",
+    "People Process or Technology Tag": "Technology"
+  },
+  {
+    "Year": 2018,
+    "Decade": "2010s",
+    "Milestone Title": "The Data Literacy Project",
+    "Milestone Event": "The Data Literacy Project launches",
+    "Why Important": "Building a data driven culture where anyone can read, work with, analze and argue with data",
+    "Reference": "https://www.businesswire.com/news/home/20181010005559/en/Global-Organizations-Launch-Data-Literacy-Project-Combat",
+    "People Process or Technology Tag": "Process"
+  }
+]
