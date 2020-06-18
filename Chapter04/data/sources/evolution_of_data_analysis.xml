@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Evolution_of_Data_Milestone="ENIAC">
+    <Year>1945</Year>
+    <Decade>1940s</Decade>
+    <Milestone_Title>ENIAC</Milestone_Title>
+    <Milestone_Event>First electronic general-purpose computer = ENIAC</Milestone_Event>  
+    <Why_Important>Faster decisions using a computer and mathmatics</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/ENIAC</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="John von Neumann / array">
+    <Year>1945</Year>
+    <Decade>1940s</Decade>
+    <Milestone_Title>John von Neumann / array</Milestone_Title>
+    <Milestone_Event>John von Neumann creates a merge sort algorithm, in which the first and second halves of an array are each sorted recursively and then merged</Milestone_Event>  
+    <Why_Important>Arrays allow mathmatics, grouping and sorting of data</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/John_von_Neumann</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="First Hard Disk">
+    <Year>1956</Year>
+    <Decade>1950s</Decade>
+    <Milestone_Title>First Hard Disk</Milestone_Title>
+    <Milestone_Event>The first computer hard disk used</Milestone_Event>  
+    <Why_Important>Storing data for reuse = reduces time to recreate data from scratch from programming</Why_Important>  
+    <Reference>https://fiftiesweb.com/pop/inventions/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Modem">
+    <Year>1958</Year>
+    <Decade>1950s</Decade>
+    <Milestone_Title>Modem</Milestone_Title>
+    <Milestone_Event>The modem invented</Milestone_Event>  
+    <Why_Important>Communication between computers, foundation of the internet, sending / receiving data</Why_Important>  
+    <Reference>https://fiftiesweb.com/pop/inventions/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="John Tukey / data analysis">
+    <Year>1961</Year>
+    <Decade>1960s</Decade>
+    <Milestone_Title>John Tukey / data analysis</Milestone_Title>
+    <Milestone_Event>Statistician John Tukey defined data analysis</Milestone_Event>  
+    <Why_Important>Defined the process and procedures of collecting data for analysis without being a statistian</Why_Important>  
+    <Reference>https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Dr. EF Codd / normalized data">
+    <Year>1970</Year>
+    <Decade>1970s</Decade>
+    <Milestone_Title>Dr. EF Codd / normalized data</Milestone_Title>
+    <Milestone_Event>Dr. E.F. Codd creates concept of "normalizing data", relational models and foundation to storing data in databases</Milestone_Event>  
+    <Why_Important>Made data independent from specific software / coding langauges and created framework for storing and retrieving data using rows (tuples), columns and tables (entities)</Why_Important>  
+    <Reference>https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="FORTRAN supports CSV Files">
+    <Year>1972</Year>
+    <Decade>1970s</Decade>
+    <Milestone_Title>FORTRAN supports CSV Files</Milestone_Title>
+    <Milestone_Event>FORTRAN Programing Language supports comma seperated value (csv) file formats</Milestone_Event>  
+    <Why_Important>Programing Language can input / output data files with consistent results </Why_Important>  
+    <Reference>http://bitsavers.trailing-edge.com/pdf/ibm/370/fortran/GC28-6884-0_IBM_FORTRAN_Program_Products_for_OS_and_CMS_General_Information_Jul72.pdf</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Mike Bloomberg / Terminal">
+    <Year>1982</Year>
+    <Decade>1980s</Decade>
+    <Milestone_Title>Mike Bloomberg / Terminal</Milestone_Title>
+    <Milestone_Event>Bloomberg Terminal Introduced</Milestone_Event>  
+    <Why_Important>Financial Data Analysis of Bond Market to market makers without being a programmer</Why_Important>  
+    <Reference>https://www.bloomberg.com/company/press/timeline-video-the-evolution-of-the-bloomberg-terminal/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Edward Tufty / Data Viz concepts">
+    <Year>1983</Year>
+    <Decade>1980s</Decade>
+    <Milestone_Title>Edward Tufty / Data Viz concepts</Milestone_Title>
+    <Milestone_Event>Edward Tufty writes the book "The Visual Display of Quantitative Information "</Milestone_Event>  
+    <Why_Important>Defines ways to communicate with data beyond tables and numbers</Why_Important>  
+    <Reference>https://www.amazon.com/gp/product/096139210X/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="SQL Standardized">
+    <Year>1986</Year>
+    <Decade>1980s</Decade>
+    <Milestone_Title>SQL Standardized</Milestone_Title>
+    <Milestone_Event>SQL Language Standardized across all database technologies</Milestone_Event>  
+    <Why_Important>A common language agnostic to technology for storing vasts amounts of data in a centralized location</Why_Important>  
+    <Reference>https://blog.ansi.org/2018/10/sql-standard-iso-iec-9075-2016-ansi-x3-135/#gref</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="MS Excel">
+    <Year>1987</Year>
+    <Decade>1980s</Decade>
+    <Milestone_Title>MS Excel</Milestone_Title>
+    <Milestone_Event>Microsoft Excel</Milestone_Event>  
+    <Why_Important>Mainstream productivity software available to anyone in business world</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Microsoft_Excel</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="BI (Business Intelligence)">
+    <Year>1989</Year>
+    <Decade>1980s</Decade>
+    <Milestone_Title>BI (Business Intelligence)</Milestone_Title>
+    <Milestone_Event>The term “BI (Business Intelligence)” was proposed by Howard Dresner at Gartner in 1989</Milestone_Event>  
+    <Why_Important>Data becomes as Asset = used for analysis to make decisions from</Why_Important>  
+    <Reference>https://www.flydata.com/blog/a-brief-history-of-data-analysis/</Reference>  
+    <People_Process_or_Technology_Tag>Process</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="OLAP">
+    <Year>1990</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>OLAP</Milestone_Title>
+    <Milestone_Event>On-Line Analytical Processing (OLAP) and Business Intelligence become industry standards</Milestone_Event>  
+    <Why_Important>Data Volumes Increase, specialized software and skills required to answer questons from data</Why_Important>  
+    <Reference>http://dssresources.com/history/dsshistory.html</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Guido van Rossum / Python ">
+    <Year>1990</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Guido van Rossum / Python </Milestone_Title>
+    <Milestone_Event>Guido van Rossum creates the Python programming language</Milestone_Event>  
+    <Why_Important>Programming language that has versility beyond specific usage like back end processing or front end User Interface (UI)</Why_Important>  
+    <Reference></Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Linus Torvalds / Linux OS">
+    <Year>1991</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Linus Torvalds / Linux OS</Milestone_Title>
+    <Milestone_Event>Finnish engineer Linus Torvalds introduces the Linux operating system. Price: $0.</Milestone_Event>  
+    <Why_Important>Open Source software and Programming Languages become available to anyone without costs </Why_Important>  
+    <Reference>https://www.bloomberg.com/news/articles/2014-12-04/open-source-linux-operating-system-introduced-in-1991</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Bill Inmon / Data Warehouse">
+    <Year>1993</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Bill Inmon / Data Warehouse</Milestone_Title>
+    <Milestone_Event>Bill Inmon writes "Building the data warehouse"</Milestone_Event>  
+    <Why_Important>Organize data in a way to gain insights and answer business questions</Why_Important>  
+    <Reference>https://archive.org/details/buildingdataware00inmo_1</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="QlikView">
+    <Year>1993</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>QlikView</Milestone_Title>
+    <Milestone_Event>QlikView software created</Milestone_Event>  
+    <Why_Important>Distruptive Technology that removes barriers from answering questions using data but creating software that does everything in one place = ingest data, etl, data visual</Why_Important>  
+    <Reference></Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Ralph Kimball / Kimball Methodology">
+    <Year>1996</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Ralph Kimball / Kimball Methodology</Milestone_Title>
+    <Milestone_Event>Ralph Kimball writes "The data warehouse toolkit"</Milestone_Event>  
+    <Why_Important>Enables growth of the data analyst and business intelligence professional = understand requirements to ground swell data marts</Why_Important>  
+    <Reference>https://archive.org/details/datawarehousetoo00kimb_0</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="XML Created">
+    <Year>1996</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>XML Created</Milestone_Title>
+    <Milestone_Event>XML Created</Milestone_Event>  
+    <Why_Important>The goals of XML emphasize simplicity, generality, and usability across the Internet.</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/XML</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Data Mining defined">
+    <Year>1997</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Data Mining defined</Milestone_Title>
+    <Milestone_Event>The journal Data Mining and Knowledge Discovery is launched; the reversal of the order of the two terms in its title reflecting the ascendance of “data mining” as the more popular way to designate “extracting information from large databases.”</Milestone_Event>  
+    <Why_Important>Evolving Data Mining as a skill moving away from specific technologies needed to answer questions without specfic expertise in 1 technology</Why_Important>  
+    <Reference>https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#3df637a055cf</Reference>  
+    <People_Process_or_Technology_Tag>Process</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Carlo Strozzi / NoSQL">
+    <Year>1998</Year>
+    <Decade>1990s</Decade>
+    <Milestone_Title>Carlo Strozzi / NoSQL</Milestone_Title>
+    <Milestone_Event>Carlo Strozzi introduced the concept of NoSQL and non-relational databases</Milestone_Event>  
+    <Why_Important>Removed defined structures required by Relational Databases to store values by key-value and catalist for Big Data solutions like Google BigTable, Amzaon DynamoDB and Graph Databases (social networks)</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/NoSQL</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="REST / APIs">
+    <Year>2000</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>REST / APIs</Milestone_Title>
+    <Milestone_Event>REST / APIs</Milestone_Event>  
+    <Why_Important>Data Democracy = If i can use a browser, I can access data without the need to batch process </Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Representational_state_transfer</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Natural Language (NLP) Toolkit">
+    <Year>2001</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Natural Language (NLP) Toolkit</Milestone_Title>
+    <Milestone_Event>Natural Language Toolkit</Milestone_Event>  
+    <Why_Important>statistical natural language processing (NLP) for English written in the Python programming language</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Natural_Language_Toolkit</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="JSON">
+    <Year>2001</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>JSON</Milestone_Title>
+    <Milestone_Event>JSON was first presented to the world at the JSON.org website in 2001</Milestone_Event>  
+    <Why_Important>Evolved from XML, data agnostic to the programing langauge that created it</Why_Important>  
+    <Reference>http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Stephen Few ">
+    <Year>2004</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Stephen Few </Milestone_Title>
+    <Milestone_Event>Stephen Few publishes Information Dashboard Design: The Effective Visual Communication of Data</Milestone_Event>  
+    <Why_Important>Evolves data viz as a skill and effective means of communication.  New careers in Business Intelligence and Data Visualization</Why_Important>  
+    <Reference>http://www.perceptualedge.com/articles/ie/the_right_graph.pdf</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Facebook">
+    <Year>2004</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Facebook</Milestone_Title>
+    <Milestone_Event>facebook</Milestone_Event>  
+    <Why_Important>The Social Network influences people and data are communicating</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Facebook</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Google Analytics">
+    <Year>2005</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Google Analytics</Milestone_Title>
+    <Milestone_Event>Google Analytics</Milestone_Event>  
+    <Why_Important>A web search engine and metadata (data about the data) become a product that businesses will pay to use</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Google_Analytics</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Apache Hadoop">
+    <Year>2006</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Apache Hadoop</Milestone_Title>
+    <Milestone_Event>Apache Hadoop Big Data Storage Created</Milestone_Event>  
+    <Why_Important>The Data Lake offers alternatives to data marts and traditional data warehouses.</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Apache_Hadoop</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="NumPy">
+    <Year>2006</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>NumPy</Milestone_Title>
+    <Milestone_Event>NumPy Library Introduced</Milestone_Event>  
+    <Why_Important>Python language library grows beyond programing to data analysis tool</Why_Important>  
+    <Reference></Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Twitter">
+    <Year>2006</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Twitter</Milestone_Title>
+    <Milestone_Event>Twitter</Milestone_Event>  
+    <Why_Important>Unstructured Big Data offers opportunities for analysis of data beyond traditional limits.  The need for Data Scientists becomes a career aspiration</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Twitter</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="AWS">
+    <Year>2006</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>AWS</Milestone_Title>
+    <Milestone_Event>Amazon Web Services (AWS) S3 storage and introduced its Elastic Compute Cloud (EC2)</Milestone_Event>  
+    <Why_Important>Cloud computing = boundries to physical computers is removed.   Information technology (IT) segments into specialized fields</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Amazon_S3</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Github">
+    <Year>2007</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Github</Milestone_Title>
+    <Milestone_Event>GitHub </Milestone_Event>  
+    <Why_Important>Version control and sharing of code between teams, departments and industries become easier and fasters</Why_Important>  
+    <Reference>https://github.com/about</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="iPhone">
+    <Year>2007</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>iPhone</Milestone_Title>
+    <Milestone_Event>Apple iPhone</Milestone_Event>  
+    <Why_Important>Mobile Analytics becomes an industry</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/IPhone</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Pandas">
+    <Year>2008</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Pandas</Milestone_Title>
+    <Milestone_Event>pandas is a software library created</Milestone_Event>  
+    <Why_Important>Python evolves to the tool for open source data analysis</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Pandas_(software)</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Uber">
+    <Year>2009</Year>
+    <Decade>2000s</Decade>
+    <Milestone_Title>Uber</Milestone_Title>
+    <Milestone_Event>Uber Founded</Milestone_Event>  
+    <Why_Important>Using Data and Technology to disrupt the transportation industry</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Uber</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Kaggle.com">
+    <Year>2010</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Kaggle.com</Milestone_Title>
+    <Milestone_Event>Kaggle.com created</Milestone_Event>  
+    <Why_Important>Data Democracy in action = reward ANYONE who can solve problems using data and algorthems</Why_Important>  
+    <Reference>https://en.wikipedia.org/wiki/Kaggle</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Naomi Robbins">
+    <Year>2011</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Naomi Robbins</Milestone_Title>
+    <Milestone_Event>Naomi Robbins founds the Data Visualization New York Meetup</Milestone_Event>  
+    <Why_Important>Pioneering Woman Engineer and Data Visualization expert who runs the largest offline community of data visualization professionals in the world</Why_Important>  
+    <Reference>https://www.meetup.com/DataVisualization/messages/boards/thread/13521591</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Raspberry PI">
+    <Year>2012</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Raspberry PI</Milestone_Title>
+    <Milestone_Event>Creation of the Raspberry PI</Milestone_Event>  
+    <Why_Important>Making the IOT (Internet of Things) mass scale of data with a device that costs only $25</Why_Important>  
+    <Reference>https://www.zdnet.com/article/technology-that-changed-us-the-2010s/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Alberto Cairo ">
+    <Year>2012</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Alberto Cairo </Milestone_Title>
+    <Milestone_Event>Alberto Cairo publishes the "The Functional Art: An introduction to information graphics and visualization (Voices That Matter)"</Milestone_Event>  
+    <Why_Important>Charts become an artform and careers like data journalism become mainstream</Why_Important>  
+    <Reference>https://www.amazon.com/gp/product/B0091SXDOM/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2</Reference>  
+    <People_Process_or_Technology_Tag>People</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Jupyter Notebook">
+    <Year>2015</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Jupyter Notebook</Milestone_Title>
+    <Milestone_Event>Project Jupyter</Milestone_Event>  
+    <Why_Important>Open Source code and libraries becomes an all in one tool that's easier to use </Why_Important>  
+    <Reference>https://jupyter.org/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="Alexa">
+    <Year>2015</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>Alexa</Milestone_Title>
+    <Milestone_Event>Amazon Alexa Ecosystem</Milestone_Event>  
+    <Why_Important>Making voice to data mainstream and allowing API integration by other vendors</Why_Important>  
+    <Reference>https://www.zdnet.com/article/technology-that-changed-us-the-2010s/</Reference>  
+    <People_Process_or_Technology_Tag>Technology</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
+<Evolution_of_Data_Milestone="The Data Literacy Project">
+    <Year>2018</Year>
+    <Decade>2010s</Decade>
+    <Milestone_Title>The Data Literacy Project</Milestone_Title>
+    <Milestone_Event>The Data Literacy Project launches</Milestone_Event>  
+    <Why_Important>Building a data driven culture where anyone can read, work with, analze and argue with data</Why_Important>  
+    <Reference>https://www.businesswire.com/news/home/20181010005559/en/Global-Organizations-Launch-Data-Literacy-Project-Combat</Reference>  
+    <People_Process_or_Technology_Tag>Process</People_Process_or_Technology_Tag>    
+</Evolution_of_Data_Milestone>
