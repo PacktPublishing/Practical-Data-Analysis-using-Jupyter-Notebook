@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14470?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Practical-Data-Analysis-using-Jupyter-Notebook
 
 <a href="https://www.packtpub.com/data/modern-python-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781838826031"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838826031-original_107.jpeg" alt="PyTorch Computer Vision Cookbook" height="256px" align="right"></a>
